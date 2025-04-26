@@ -1,6 +1,5 @@
 # Pygame Circle 
 
-## Task overview steps
 - Create a Python program using Pygame that opens a window with a white background.
 - Draw circles where the user left-clicks, assigning a random color to each circle. The longer the click is held, the larger the circle becomes.
 - Connect consecutive circles with lines and display the total path length.
