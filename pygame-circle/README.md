@@ -7,10 +7,12 @@
 - cleanup : right-click to remove the last circle, press the Space bar to clear the entire canvas, press the ’S’ key to save the drawing as an image.
 
 ## How to run?
+```
 - Ensure python is installed then, create and activate the virtual environment
-``` python3 -m venv venv 
-source ./venv/bin/activate ```
+    python3 -m venv venv 
+    source ./venv/bin/activate
 - install required modules from req
-``` pip install -r req.txt```
+    pip install -r req.txt
 - run main.py
-``` python3 main.py ```
+    python3 main.py
+```
