@@ -1,1 +1,16 @@
-/venv
+# Virtual environment
+venv/
+
+# ROS 2 workspace
+build/
+install/
+log/
+distance_log.csv
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# VSCode specific files
+.vscode/
+
